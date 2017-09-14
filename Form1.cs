@@ -30,12 +30,12 @@ namespace PAFParser
              conDB = connstring.Replace("{SERVER}", txtServer.Text).Replace("{PASSWORD}", txtPass.Text).Replace("{USERNAME}", txtUser.Text).Replace("Initial Catalog={DATABASE};","");
              ExecuteSQL(conDB, "CREATE DATABASE " + txtDBName.Text);
             //   Parallel.Invoke(() => importThoroughfare(), () => importThoroughfareDescriptor(), ()=> importCompanyData(), () => importBuildingName(), () => importSubBuildingName());
-            //importLocality();
-            //importThoroughfare();
-            //importThoroughfareDescriptor();
-            //importCompanyData();
-            //importBuildingName();
-            //importSubBuildingName();
+            importLocality();
+            importThoroughfare();
+            importThoroughfareDescriptor();
+            importCompanyData();
+            importBuildingName();
+            importSubBuildingName();
             importaAddressLines();
         }
 
