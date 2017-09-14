@@ -1,0 +1,9 @@
+C:\Work\Solutions\PAFParser\PAFParser\bin\Debug\PAFParser.exe.config
+C:\Work\Solutions\PAFParser\PAFParser\bin\Debug\PAFParser.exe
+C:\Work\Solutions\PAFParser\PAFParser\bin\Debug\PAFParser.pdb
+C:\Work\Solutions\PAFParser\PAFParser\obj\Debug\PAFParser.csprojResolveAssemblyReference.cache
+C:\Work\Solutions\PAFParser\PAFParser\obj\Debug\PAFParser.Form1.resources
+C:\Work\Solutions\PAFParser\PAFParser\obj\Debug\PAFParser.Properties.Resources.resources
+C:\Work\Solutions\PAFParser\PAFParser\obj\Debug\PAFParser.csproj.GenerateResource.Cache
+C:\Work\Solutions\PAFParser\PAFParser\obj\Debug\PAFParser.exe
+C:\Work\Solutions\PAFParser\PAFParser\obj\Debug\PAFParser.pdb
